@@ -1,3 +1,8 @@
+bin
+target
+.project
+.settings
+
 # Compiled class file
 *.class
 
