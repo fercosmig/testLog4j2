@@ -1,7 +1,8 @@
+.settings
 bin
 target
 .project
-.settings
+README.md
 
 # Compiled class file
 *.class
